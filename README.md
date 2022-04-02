@@ -19,18 +19,18 @@
 </ul>
 <h3>Screen Shots</h3>
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/welcomescrren_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/welcomescrren_AndroidAttendanceSystem.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/loginscreen_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/loginscreen_AndroidAttendanceSystem.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/homescreen_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/homescreen_AndroidAttendanceSystem.jpg
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/homescreen2_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/homescreen2_AndroidAttendanceSystem.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addsubject_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addsubject_AndroidAttendanceSystem.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addstudentscreen_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addstudentscreen_AndroidAttendanceSystem.jpg)
 
-![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addcoures_AndroidAttendanceSystem.jpg)//image
+![ScreenShot](https://github.com/Ebrahim1133/Attendance-App-Using-Android/blob/master/addcoures_AndroidAttendanceSystem.jpg)
 
 
